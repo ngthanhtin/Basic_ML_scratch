@@ -1,6 +1,5 @@
 """
 This file provides functionalities for unit testing
-Author: Kien Huynh
 """
 import argparse
 import numpy as np
