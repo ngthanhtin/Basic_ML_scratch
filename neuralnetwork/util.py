@@ -1,7 +1,3 @@
-"""
-This files helps you read data from data files
-Author: Kien Huynh
-"""
 import pickle
 import gzip
 import glob

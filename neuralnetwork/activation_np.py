@@ -1,8 +1,3 @@
-"""activation_np_sol.py
-This file provides activation functions for the NN 
-Author: Phuong Hoang
-"""
-
 import numpy as np
 
 

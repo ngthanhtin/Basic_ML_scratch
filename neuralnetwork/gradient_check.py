@@ -1,7 +1,3 @@
-"""gradient_check.py
-This file provides functions for you to check your gradient computation
-"""
-
 import numpy as np
 import pdb
 

@@ -1,9 +1,3 @@
-"""dnn_np_sol.py
-Solution of deep neural network implementation using numpy
-Author: Kien Huynh 
-Modified by : Phuong Hoang
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 from util import *
