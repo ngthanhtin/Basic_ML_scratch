@@ -8,6 +8,6 @@ Implement basic machine learning algorithm from scratch
 ### 3. Neural Network
 [Neural Network](https://github.com/ngthanhtin/Basic_ML_scratch/tree/main/neuralnetwork)
 ### 5. Sentiment Analysis
-[Word2Vec](https://github.com/ngthanhtin/Basic_ML_scratch/tree/main/sentiment_analysis/word2vec/Lab3-Word2Vec-With-Pretrained-Model)
+[Word2Vec](https://github.com/ngthanhtin/Basic_ML_scratch/tree/main/sentiment_analysis/word2vec/Lab3-Word2Vec-With-Pretrained-Model)<br/>
 [Sentiment Analysis](https://github.com/ngthanhtin/Basic_ML_scratch/tree/main/sentiment_analysis)
 
