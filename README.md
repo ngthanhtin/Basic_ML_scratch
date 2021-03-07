@@ -2,11 +2,12 @@
 Implement basic machine learning algorithm from scratch
 
 ### 1. Linear Regression
-[Implementation]()
+[Linear Regression]()
 ### 2. Logistic and Softmax Regression
-[Implementation]()
+[Logistic & Softmax Regression]()
 ### 3. Neural Network
-[Implementation](https://github.com/ngthanhtin/Basic_ML_scratch/tree/main/neuralnetwork)
+[Neural Network](https://github.com/ngthanhtin/Basic_ML_scratch/tree/main/neuralnetwork)
 ### 5. Sentiment Analysis
-[Implementation]()
+[Word2Vec]()
+[Sentiment Analysis]()
 
